@@ -1,0 +1,350 @@
+.text-actived {
+  color: black;
+}
+
+:root {
+  ---f2c-distanceOfUserProfile: -89px;
+}
+
+#profile {
+  position: relative;
+  flex: 1;
+  background-color: rgb(255,202,70);
+  margin: 0;
+  padding: 0;
+  height: 89%;
+  overflow-x: auto;
+  margin-top: var(--f2c-header);
+}
+
+/* #profile::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  display: block;
+  height: 74%;
+  background-color: rgb(255,202,70);
+  border-bottom-left-radius: 11%;
+  border-bottom-right-radius: 11%;
+} */
+
+#profile #navigation {
+  margin-top: 20px;
+  color: #afafaf;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+#profile #navigation > p {
+  cursor: pointer;
+}
+
+#profile #navigation > p:hover {
+  color: black;
+  font-weight: bold;
+}
+
+#profile #navigation > p:not(:first-child) {
+  margin-left: 30px;
+}
+
+#user-profile {
+  position: relative;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  width: 84%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+  margin: 56px auto;
+}
+
+#user-profile #cover-photo {
+  background-image: url('https://images.pexels.com/photos/208560/pexels-photo-208560.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  border-radius: 10px;
+  position: relative;
+  width: 98%;
+  margin: 0 auto;
+}
+
+#user-profile #profile-picture {
+  width: 150px;
+  height: 150px;
+  border: 10px solid white;
+  border-radius: 50%;
+  position: relative;
+  top: -85px;
+  margin: 0 auto;
+  background-size: cover;
+}
+
+#user-profile #user-info {
+  text-align: center;
+  padding: 20px;
+  margin-top: var(---f2c-distanceOfUserProfile);
+}
+
+#user-profile #user-info h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+#user-profile #user-info-job {
+  font-size: 15px;
+  color: #666;
+  padding-bottom: 15px;
+}
+
+#user-profile #user-info-intro {
+  font-size: 15px;
+  color: #36393E;
+  padding-bottom: 15px;
+}
+
+#user-profile #user-info-statistical {
+  padding: 12px;
+  display: flex;
+  justify-content: center;
+
+}
+
+#user-profile #user-info-statistical div {
+  padding: 0 30px 0 32px;
+}
+
+#user-profile #user-info-btn {
+  padding: 12px;
+  display: flex;
+  justify-content: center;
+  /* Căn giữa theo chiều ngang */
+
+}
+
+#user-profile #user-info-btn span {
+  background-color: #F0C132;
+  border-radius: 5px;
+  border: none;
+  padding: 10px 30px 10px 30px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  margin: 7px;
+}
+
+#user-profile #user-info-btn span:hover {
+  transform: scale(1.05);
+}
+
+/* icon */
+
+#user-profile .icon {
+  font-size: 24px;
+  position: absolute;
+  background: rgba(0, 0, 0, 0.7);
+  color: white;
+  border-radius: 50%;
+  padding: 5px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#user-profile #change-avatar-icon {
+  top: 70%;
+  right: 0%;
+}
+
+#user-profile #edit-profile-icon {
+  top: 80%;
+  right: 20px;
+}
+
+#user-profile #change-cover-photo-icon {
+  top: 80%;
+  right: 80px;
+}
+
+/* --------------------------Main Profile --------------------------*/
+#profile-main {
+
+
+}
+
+/* ---------------------------Profile Left-----------------------------------*/
+#profile-main #profile-left {
+  position: absolute;
+  display: block;
+  width: 35%;
+  left: 30px;
+}
+
+/* --------------------------Profile Left Describe --------------------------*/
+#profile-left-describe {
+  border: 1px solid #3e3c3c;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+  width: 100%;
+  border-radius: max(0px, min(8px, ((100vw - 4px) - 100%) * 9999)) / 8px;
+  margin-bottom: 15px;
+}
+
+#profile-left-describe-header {
+  display: flex;
+  margin-bottom: 10px;
+  gap: 10px;
+}
+
+#profile-left-describe-header span {
+  color: #050505;
+  font-weight: 700;
+}
+
+#profile-left-describe-body {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+}
+
+#profile-left-describe-body div {
+  width: 95%;
+  text-align: center;
+  background-color: #E4E6EB;
+  margin: 10px 0 10px 0;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: max(0px, min(8px, ((100vw - 4px) - 100%) * 9999)) / 8px;
+  cursor: pointer;
+}
+
+#profile-left-describe-body div:hover {
+  background-color: #F0C132;
+}
+
+/* --------------------------Profile Left Picture --------------------------*/
+#profile-left-pictures {
+  border: 1px solid #3e3c3c;
+  padding: 10px;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, .2);
+  width: 100%;
+  border-radius: max(0px, min(8px, ((100vw - 4px) - 100%) * 9999)) / 8px;
+  margin-bottom: 15px;
+}
+
+#profile-left-pictures-header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  gap: 10px;
+}
+
+#profile-left-pictures-header a {
+  color: #050505;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+#profile-left-pictures-header span {
+  color: #2676CD;
+
+}
+
+#profile-left-pictures-body {
+  display: flex;
+  flex-wrap: wrap;
+
+}
+
+.profile-left-pictures-row {
+  display: flex;
+
+  width: 100%;
+
+}
+
+.profile-left-pictures-row a {
+  width: 31.5%;
+  padding: 2px;
+
+}
+
+.profile-left-pictures-row img {
+  width: 100%;
+
+  height: 100%;
+  aspect-ratio: 1;
+  height: width;
+  object-fit: cover;
+  margin: 0 5px;
+  border-radius: 10px;
+}
+
+/* -------------------------- Profile Right--------------------------*/
+#profile-main #profile-right {
+  position: absolute;
+  display: flex;
+  width: 56%;
+  right: 30px;
+  border-radius: 5px;
+  padding-right: 0px;
+}
+
+#profile-main #profile-right-post {
+  width: 100%;
+  background-color: white;
+  border-radius: 5px;
+  height: 1100px;
+}
+
+/*----------------------------- CSS cho modal -----------------------*/
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.9);
+}
+
+.modal-content {
+  margin: auto;
+  display: block;
+  max-width: 80%;
+  max-height: 80%;
+}
+
+.close {
+  color: white;
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  font-size: 30px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+#profile #content {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 15px;
+}
+
+#profile #content > div:nth-child(2n) {
+  margin-left: 24px;
+}
+
+#profile #content > div:not(:first-child),
+#profile #content > div:not(:last-child)
+{
+  margin-top: 25px;
+}

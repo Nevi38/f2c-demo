@@ -1,0 +1,27 @@
+
+.postcard {
+    width: calc(100% / 2 - 15px);
+    cursor: pointer;
+}
+
+.postcard .image {
+    height: 300px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.postcard .content {
+    text-align: left;
+    margin-top: 4px;
+}
+
+.postcard .content .title {
+    font-weight: bold;
+}
+
+.postcard .content .date {
+    margin-top: 5px;
+    color: #afafaf;
+    font-size: 14px;
+}

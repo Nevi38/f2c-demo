@@ -1,0 +1,1 @@
+The difference is subtle. Attributes are refering to additional information of an object. Properties are describing the characteristics of an object. Most people use these two words as synonyms.

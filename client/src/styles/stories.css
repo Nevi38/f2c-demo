@@ -1,0 +1,51 @@
+.stories {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.stories .title {
+    margin-bottom: 15px;
+}
+
+.stories .list {
+    display: flex;
+}
+
+.stories .card {
+    position: relative;
+    width: calc(100% / 5);
+    height: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    background-position: center;
+}
+
+.stories .card:hover {
+    transform: scale(1.06);
+}
+
+.stories .card:not(:first-child)
+{
+    margin-left: 15px;
+}
+
+.stories .avatar {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+}
+
+.stories .info {
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    left: 0;
+    right: 0;
+    margin-bottom: 10px;
+}

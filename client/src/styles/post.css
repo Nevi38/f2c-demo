@@ -1,0 +1,47 @@
+.disable {
+    display: none !important;
+}
+
+.more {
+    position: relative;
+    z-index: 0;
+}
+
+.tooltips-active {
+    display: block !important;
+}
+
+.more .tooltips {
+    position: absolute;
+    background-color: white;
+    border-radius: 9px;
+    right: 52px;
+    top: -49px;
+    box-shadow: 0 1px 5px 0 rgba(0,0,0,0.2), 0 4px 20px 0 rgba(0,0,0,0.19);
+    display: none;
+}
+
+.more .tooltips li {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    padding: 10px;
+    user-select: none;
+}
+
+.more .tooltips span {
+    margin-right: 5px;
+}
+
+.more .tooltips li:hover {
+    opacity: 0.8;
+    cursor: pointer;
+}
+
+.shape-effect__love {
+    color: #ff002d;
+}
+
+.no-select {
+    user-select: none;
+}
