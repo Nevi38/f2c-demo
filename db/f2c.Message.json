@@ -1,0 +1,726 @@
+[{
+  "_id": {
+    "$oid": "653cdd1ea324e9613f46deb8"
+  },
+  "message": {
+    "text": "hi"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": {
+    "$oid": "653a7b1f1cfe8b32fe0c432f"
+  },
+  "createdAt": {
+    "$date": "2023-10-28T10:06:22.938Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "653d2b3635983cd09013a3af"
+  },
+  "message": {
+    "text": "Gì"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-10-28T15:39:35.305Z"
+},
+{
+  "_id": {
+    "$oid": "653d2b3d35983cd09013a3b0"
+  },
+  "message": {
+    "text": "=))))))"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-28T15:39:41.264Z"
+},
+{
+  "_id": {
+    "$oid": "653d2b4635983cd09013a3b1"
+  },
+  "message": {
+    "text": "By following this content strategy, you can create a valuable resource for your community, encourage local engagement, and potentially establish partnerships with local businesses and event organizers. Remember to adapt and evolve your strategy based on the feedback and changing needs of your audience."
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-28T15:39:50.577Z"
+},
+{
+  "_id": {
+    "$oid": "653d2b6235983cd09013a3b2"
+  },
+  "message": {
+    "text": "Proofread and test your newsletters to ensure they are error-free and display correctly on different devices."
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-28T15:40:18.128Z"
+},
+{
+  "_id": {
+    "$oid": "653d2c0b46a48455e87d5d69"
+  },
+  "message": {
+    "text": "Build and maintain a subscriber list."
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-28T15:43:07.064Z"
+},
+{
+  "_id": {
+    "$oid": "653d2c56fc96c918b6447b74"
+  },
+  "message": {
+    "text": "Monitor the performance of your newsletter using analytics tools."
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-28T15:44:22.017Z"
+},
+{
+  "_id": {
+    "$oid": "653d2d5dfbcc8f116c3325e4"
+  },
+  "message": {
+    "text": "Learn English on Any Budget. Compare Tutor Intro Videos & Reviews. Find Your Tutor! Free Self-Study Tools. Friendly, Expert English Tutors from $5 an Hour! English for Professionals. Courses: English for Kids, English for Professionals, English For Beginners."
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-10-28T15:48:46.286Z"
+},
+{
+  "_id": {
+    "$oid": "653d2e4bb065baf4d740f37a"
+  },
+  "message": {
+    "text": "What is it ?"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-28T15:52:43.587Z"
+},
+{
+  "_id": {
+    "$oid": "653d2e77b065baf4d740f37b"
+  },
+  "message": {
+    "text": "I don't know."
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-28T15:53:27.244Z"
+},
+{
+  "_id": {
+    "$oid": "653d2eaeb065baf4d740f37c"
+  },
+  "message": {
+    "text": "??"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-28T15:54:22.740Z"
+},
+{
+  "_id": {
+    "$oid": "653d2f29b065baf4d740f37d"
+  },
+  "message": {
+    "text": "Please inbox for me"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-28T15:56:25.636Z"
+},
+{
+  "_id": {
+    "$oid": "653d2fe3b065baf4d740f37e"
+  },
+  "message": {
+    "text": "English is a West Germanic language in the Indo-European language family,"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-10-28T15:59:31.419Z"
+},
+{
+  "_id": {
+    "$oid": "653d3021b065baf4d740f37f"
+  },
+  "message": {
+    "text": "Lessons for Students\nHave a Private Tutor Help your Teen Improve their Grades"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-10-28T16:00:34.128Z"
+},
+{
+  "_id": {
+    "$oid": "653d302db065baf4d740f380"
+  },
+  "message": {
+    "text": "@@"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-10-28T16:00:45.490Z"
+},
+{
+  "_id": {
+    "$oid": "653d3035b065baf4d740f381"
+  },
+  "message": {
+    "text": "Hahaa"
+  },
+  "users": [
+    "6541cb9b1470a956b4ea44d6",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-28T16:00:53.372Z"
+},
+{
+  "_id": {
+    "$oid": "653d303db065baf4d740f382"
+  },
+  "message": {
+    "text": "haha"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-28T16:01:01.028Z"
+},
+{
+  "_id": {
+    "$oid": "653d3074a93e69cc9e64437b"
+  },
+  "message": {
+    "text": "State Update Timing: Verify that the data received in the \"getContacts\" function is valid and contains the expected information"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-28T16:01:56.669Z"
+},
+{
+  "_id": {
+    "$oid": "653d3082a93e69cc9e64437c"
+  },
+  "message": {
+    "text": "Use a Functional State Update"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-28T16:02:10.221Z"
+},
+{
+  "_id": {
+    "$oid": "653d308ba93e69cc9e64437d"
+  },
+  "message": {
+    "text": "Oke"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-10-28T16:02:19.838Z"
+},
+{
+  "_id": {
+    "$oid": "653d309ea93e69cc9e64437e"
+  },
+  "message": {
+    "text": "Good bye. See you later"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-10-28T16:02:38.754Z"
+},
+{
+  "_id": {
+    "$oid": "653d31a4a93e69cc9e64437f"
+  },
+  "message": {
+    "text": "Hello Bui Tin"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-28T16:07:00.070Z"
+},
+{
+  "_id": {
+    "$oid": "653d31afa93e69cc9e644380"
+  },
+  "message": {
+    "text": "Master English in no Time with Dean"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-10-28T16:07:11.410Z"
+},
+{
+  "_id": {
+    "$oid": "653d31bea93e69cc9e644381"
+  },
+  "message": {
+    "text": "Chapter 2: The Old English Language”. Trong Godden, Malcolm; Lapidge, Michael (biên tập). The Cambridge companion to Old English literature . Cambridge ..."
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-10-28T16:07:27.172Z"
+},
+{
+  "_id": {
+    "$oid": "653d3e6017367b472b677985"
+  },
+  "message": {
+    "text": "I will go to sleep before"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-28T17:01:20.822Z"
+},
+{
+  "_id": {
+    "$oid": "654137bb95c5fe28b8ad3b8d"
+  },
+  "message": {
+    "text": "Please rep me"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-31T17:22:03.840Z"
+},
+{
+  "_id": {
+    "$oid": "6541383095c5fe28b8ad3b8e"
+  },
+  "message": {
+    "text": "...."
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-31T17:24:00.239Z"
+},
+{
+  "_id": {
+    "$oid": "654144b15032246f0769c436"
+  },
+  "message": {
+    "text": "???"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-10-31T18:17:21.597Z"
+},
+{
+  "_id": {
+    "$oid": "654146015032246f0769c437"
+  },
+  "message": {
+    "text": ":)))"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-10-31T18:22:57.901Z"
+},
+{
+  "_id": {
+    "$oid": "6541d0191470a956b4ea44e6"
+  },
+  "message": {
+    "text": "Hello\n"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-11-01T04:12:12.892Z"
+},
+{
+  "_id": {
+    "$oid": "6541d0ff9c6860d62ae7018a"
+  },
+  "message": {
+    "text": "hi"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "6541cb9b1470a956b4ea44d6"
+  ],
+  "sender": {
+    "$oid": "653a7b1f1cfe8b32fe0c432f"
+  },
+  "createdAt": {
+    "$date": "2023-10-28T10:06:22.938Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6541d2179c6860d62ae70193"
+  },
+  "message": {
+    "text": "?"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "6541cb9b1470a956b4ea44d6"
+  ],
+  "sender": {
+    "$oid": "6541cb9b1470a956b4ea44d6"
+  },
+  "createdAt": {
+    "$date": "2023-10-28T10:06:22.938Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6541e07d9984e2809dc4620e"
+  },
+  "message": {
+    "text": "hello\n"
+  },
+  "users": [
+    "6541cb9b1470a956b4ea44d6",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "createdAt": "2023-11-01T05:22:06.874Z"
+},
+{
+  "_id": {
+    "$oid": "6541e0869984e2809dc4620f"
+  },
+  "message": {
+    "text": "Gớm gớm"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "6541cb9b1470a956b4ea44d6"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-11-01T05:22:14.302Z"
+},
+{
+  "_id": {
+    "$oid": "6541e0989984e2809dc46210"
+  },
+  "message": {
+    "text": "123\n"
+  },
+  "users": [
+    "6541cb9b1470a956b4ea44d6",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "createdAt": "2023-11-01T05:22:33.276Z"
+},
+{
+  "_id": {
+    "$oid": "6541e0da9984e2809dc46211"
+  },
+  "message": {
+    "text": "고기, 해물, 채소 등의 재료를 물에 넣"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "6541cb9b1470a956b4ea44d6"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-11-01T05:23:38.391Z"
+},
+{
+  "_id": {
+    "$oid": "6541e0ed9984e2809dc46212"
+  },
+  "message": {
+    "text": "한국 요리의 국은 밥과 함께 먹는 국물 요리이다. 고기, 생선, 채소 등에 물을 많이 붓고 소금이나 간장, 된장, 액젓 등으로 간을 맞추어 끓인다. 탕(湯)은 국을 높여"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "6541cb9b1470a956b4ea44d6"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-11-01T05:23:57.412Z"
+},
+{
+  "_id": {
+    "$oid": "6541e1529984e2809dc46213"
+  },
+  "message": {
+    "text": " 제가 국 종류 中 베스트"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-11-01T05:25:38.362Z"
+},
+{
+  "_id": {
+    "$oid": "6541eae25123a42c00c7a880"
+  },
+  "message": {
+    "text": "Nay có đi học không???\n"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-11-01T06:06:28.870Z"
+},
+{
+  "_id": {
+    "$oid": "6541fcae0ac6df4f7cb5f953"
+  },
+  "message": {
+    "text": "????"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-11-01T07:22:22.203Z"
+},
+{
+  "_id": {
+    "$oid": "6541fcba0ac6df4f7cb5f954"
+  },
+  "message": {
+    "text": "hỏi qq gì ~~\n"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-11-01T07:22:37.403Z"
+},
+{
+  "_id": {
+    "$oid": "6542018d0ac6df4f7cb5f95e"
+  },
+  "message": {
+    "text": "Hello"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-11-01T07:43:11.795Z"
+},
+{
+  "_id": {
+    "$oid": "654201920ac6df4f7cb5f95f"
+  },
+  "message": {
+    "text": "AAAA"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-11-01T07:43:14.599Z"
+},
+{
+  "_id": {
+    "$oid": "654201ab0ac6df4f7cb5f960"
+  },
+  "message": {
+    "text": "tới công chuyện"
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-11-01T07:43:42.259Z"
+},
+{
+  "_id": {
+    "$oid": "655da72d86bccffbc913bbb4"
+  },
+  "message": {
+    "text": "..."
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "653a17dbab118c7cf50002c5"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-11-22T07:01:01.665Z"
+},
+{
+  "_id": {
+    "$oid": "655da73186bccffbc913bbb5"
+  },
+  "message": {
+    "text": "QQ"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-11-22T07:01:05.937Z"
+},
+{
+  "_id": {
+    "$oid": "655dc4f61662c0067558bec6"
+  },
+  "message": {
+    "text": "alooooo"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-11-22T09:08:06.238Z"
+},
+{
+  "_id": {
+    "$oid": "655dc79e1662c0067558bec7"
+  },
+  "message": {
+    "text": "..."
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-11-22T09:19:26.883Z"
+},
+{
+  "_id": {
+    "$oid": "655dc7c41662c0067558bec8"
+  },
+  "message": {
+    "text": "Ủa sao ít vậy"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "6541cb9b1470a956b4ea44d6"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-11-22T09:20:04.392Z"
+},
+{
+  "_id": {
+    "$oid": "655e945a5623d267affb01e6"
+  },
+  "message": {
+    "text": "..."
+  },
+  "users": [
+    "653a7b1f1cfe8b32fe0c432f",
+    "6541cb9b1470a956b4ea44d6"
+  ],
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "createdAt": "2023-11-22T23:52:58.398Z"
+},
+{
+  "_id": {
+    "$oid": "656032552e42c3d3685a2d19"
+  },
+  "message": {
+    "text": "Thua"
+  },
+  "users": [
+    "653a17dbab118c7cf50002c5",
+    "653a7b1f1cfe8b32fe0c432f"
+  ],
+  "sender": "653a17dbab118c7cf50002c5",
+  "createdAt": "2023-11-24T05:19:17.602Z"
+}]

@@ -1,0 +1,143 @@
+[{
+  "_id": {
+    "$oid": "6520c88a38b565b760886076"
+  },
+  "firstName": "Nguyễn",
+  "lastName": "Hoàng Ly",
+  "address": "TP.HCM",
+  "phone": "0956785422",
+  "sex": "Male",
+  "birthDay": "03-08-2002"
+},
+{
+  "_id": {
+    "$oid": "65253691fc11231d37f45a3a"
+  },
+  "firstName": "Hồng Hoa",
+  "lastName": "Huỳnh",
+  "avatar": "1697112691202.png",
+  "friends": [
+    {
+      "$id": "653a17dbab118c7cf50002c5"
+    },
+    {
+      "$id": "653a7b1f1cfe8b32fe0c432f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a17dbab118c7cf50002c5"
+  },
+  "firstName": "Trần Ngọc",
+  "lastName": "Linh",
+  "avatar": "9d8ed5_f2f333dac53c4f428273efde1501bb93~mv2.webp",
+  "friends": [
+    {
+      "$id": "653a7c421cfe8b32fe0c4330"
+    },
+    {
+      "$id": "653a7b1f1cfe8b32fe0c432f"
+    },
+    {
+      "$id": "653b2af3b0447a1b7d54ccbd"
+    },
+    {
+      "$id": "653b2b3ab0447a1b7d54ccbe"
+    },
+    {
+      "$id": "653b2b9eb0447a1b7d54ccbf"
+    },
+    {
+      "$id": "6541cb9b1470a956b4ea44d6"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a7b1f1cfe8b32fe0c432f"
+  },
+  "firstName": "Bùi",
+  "lastName": "Tín",
+  "avatar": "imager_10_21786_700.jpg",
+  "friends": [
+    {
+      "$id": "653a17dbab118c7cf50002c5"
+    },
+    {
+      "$id": "653a7c421cfe8b32fe0c4330"
+    },
+    {
+      "$id": "6541cb9b1470a956b4ea44d6"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "653a7c421cfe8b32fe0c4330"
+  },
+  "firstName": "Hoàng",
+  "lastName": "Trọng Nhân",
+  "avatar": "hinh-anh-trai-dep-viet-nam-1.webp",
+  "friends": [
+    {
+      "$id": "653a17dbab118c7cf50002c5"
+    },
+    {
+      "$id": "653a7b1f1cfe8b32fe0c432f"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "653b2af3b0447a1b7d54ccbd"
+  },
+  "firstName": "Hoàng Thanh",
+  "lastName": "Tuấn",
+  "avatar": "anonymous.png"
+},
+{
+  "_id": {
+    "$oid": "653b2b3ab0447a1b7d54ccbe"
+  },
+  "firstName": "Trương Bồ",
+  "lastName": "Quốc Thắng",
+  "avatar": "anonymous.png"
+},
+{
+  "_id": {
+    "$oid": "653b2b9eb0447a1b7d54ccbf"
+  },
+  "firstName": "Hoàng",
+  "lastName": "Linh",
+  "avatar": "anonymous.png"
+},
+{
+  "_id": {
+    "$oid": "653e7509c3fd132111c1b700"
+  },
+  "firstName": "Trần Bảo",
+  "lastName": "Ngọc",
+  "avatar": "avatar.png"
+},
+{
+  "_id": {
+    "$oid": "654148215032246f0769c438"
+  },
+  "firstName": "Trần Ánh",
+  "lastName": "Ngọc",
+  "avatar": "anonymous.png"
+},
+{
+  "_id": {
+    "$oid": "6541cb9b1470a956b4ea44d6"
+  },
+  "firstName": "Thanh",
+  "lastName": "Huynh",
+  "avatar": "anonymous.png",
+  "friends": [
+    {
+      "$id": "653a7b1f1cfe8b32fe0c432f"
+    }
+  ]
+}]

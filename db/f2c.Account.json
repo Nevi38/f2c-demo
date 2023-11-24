@@ -1,0 +1,72 @@
+[{
+  "_id": {
+    "$oid": "653a17dbab118c7cf50002c5"
+  },
+  "username": "huynhhonghoa1",
+  "password": "cf0918a9ffe7939f8f060fe1505667b56f0f6e3e2719835982f38b45cd428f57",
+  "salt": "cf7dd555f842413daa8b67bb2a4812bd"
+},
+{
+  "_id": {
+    "$oid": "653a7b1f1cfe8b32fe0c432f"
+  },
+  "username": "buitin",
+  "password": "df8225680dff80af6cd5d116a28de57283a320976edf4dda74a8870c87285080",
+  "salt": "0bdbf90124f36d07b380d019f5f0e8f6"
+},
+{
+  "_id": {
+    "$oid": "653a7c421cfe8b32fe0c4330"
+  },
+  "username": "hoangtrongnhan",
+  "password": "d27abef1e85739667240dde13c6569553faa9c2f6f01449d5c5a8aab42fd0b72",
+  "salt": "f70c915cf7bb55adb7c16316a9a8a880"
+},
+{
+  "_id": {
+    "$oid": "653b2af3b0447a1b7d54ccbd"
+  },
+  "username": "huynhhonghoa12",
+  "password": "7f832fb46a41a5fea1d94eba9c476c4bed87cdec9b33e4fb4c0f87086d0587f9",
+  "salt": "055f32a1f36f4e20d173670d88a28f77"
+},
+{
+  "_id": {
+    "$oid": "653b2b3ab0447a1b7d54ccbe"
+  },
+  "username": "quocthangngoc12",
+  "password": "ae4ed08d5a1a90bf5152d4f43d08af1e7f245cdf534e4bfae122ebc8b1904ee8",
+  "salt": "7bf6589dffb1f240bc40cf09dac31c6c"
+},
+{
+  "_id": {
+    "$oid": "653b2b9eb0447a1b7d54ccbf"
+  },
+  "username": "hoanglinh",
+  "password": "89a3f69e1c9f63a2e5b3bb3890efb3761ad1052b4ec8abdfaba85c2b2e898ff0",
+  "salt": "1ac16733c02dadb66a9cd82a3f599aaf"
+},
+{
+  "_id": {
+    "$oid": "653e7509c3fd132111c1b700"
+  },
+  "username": "tranbaongoc",
+  "password": "c96fe0c40ef959164420e08967b48c713e3b5d445edd891f6ed8da810200b5d2",
+  "salt": "47a631f3ddcffd5f676097749b2412e4"
+},
+{
+  "_id": {
+    "$oid": "654148215032246f0769c438"
+  },
+  "username": "trananhngoc",
+  "password": "5744dc9b5eb6493407821c1401445dbc6736bdfc2892481fb899d1adb8853515",
+  "salt": "69124f03ad578dd540bb9f3da615271b"
+},
+{
+  "_id": {
+    "$oid": "6541cb9b1470a956b4ea44d6"
+  },
+  "username": "ThanhSan",
+  "password": "7e185467edd02109fe9a7a205004ea2fa4855461d13d1a3b49da05cd32c1f491",
+  "salt": "7cc17f9711df752445417aa1c424c773"
+}]

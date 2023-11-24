@@ -1,0 +1,1678 @@
+[{
+  "_id": {
+    "$oid": "653e660da1ace700c160eaf7"
+  },
+  "sender": "653a17dbab118c7cf50002c5",
+  "content": {
+    "text": "Cảm giác hạnh phúc và bình yên nhất chính là được ôm trọn người mình yêu vào buổi tối và nhìn thấy họ đầu tiên vào buổi sáng.",
+    "image": "1698588173769.JPEG"
+  },
+  "creationTime": "Sun Oct 29 2023 21:02:53 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "653e6640a1ace700c160eaf8"
+  },
+  "sender": "653a17dbab118c7cf50002c5",
+  "content": {
+    "text": "Hạnh phúc trong tình yêu không phải điều gì to lớn, đôi khi hạnh phúc đơn giản chỉ là cùng nhau làm những điều nhỏ nhặt mỗi ngày.",
+    "image": "1698588224312.JPEG"
+  },
+  "creationTime": "Sun Oct 29 2023 21:03:44 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "653e668da1ace700c160eaf9"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "Trang đăng nhập",
+    "image": "1698588301256.JPEG"
+  },
+  "creationTime": "Sun Oct 29 2023 21:05:01 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "653e669aa1ace700c160eafa"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "Trang đăng ký",
+    "image": "1698588314424.JPEG"
+  },
+  "creationTime": "Sun Oct 29 2023 21:05:14 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "653e673ae77372da0334bc95"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "Thời gian và không gian không thể chia cắt được tình yêu anh dành cho em. Càng xa em anh càng thấy nhớ em nhiều hơn, càng gần em thì ngọn lửa tình yêu trong anh lại càng mãnh liệt. Và dù trong hoàn cảnh như thế nào đi chăng nữa thì anh vẫn mãi luôn bên em.",
+    "image": "1698588474621.JPEG"
+  },
+  "creationTime": "Sun Oct 29 2023 21:07:54 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "653e6833f1fa51f310e23b16"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "Nếu bạn thực sự yêu thích điều mình làm, bạn sẽ không cần ai thúc ép bạn cả. Chính tầm nhìn sẽ đưa bạn đi.",
+    "image": "1698588723471.JPEG"
+  },
+  "creationTime": "Sun Oct 29 2023 21:12:03 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "653e766a5f49d921d9f7d615"
+  },
+  "sender": "653e7509c3fd132111c1b700",
+  "content": {
+    "text": "Đừng bao giờ cảm thấy có lỗi khi có một lối sống xa hoa. Những ai thực sự muốn có cuộc sống như bạn sẽ phải phấn đấu để đạt được nó.",
+    "image": "1698592361989.JPEG"
+  },
+  "creationTime": "Sun Oct 29 2023 22:12:41 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "653e8fad5f49d921d9f7d616"
+  },
+  "sender": "653a17dbab118c7cf50002c5",
+  "content": {
+    "text": "Ước mơ mà không kèm theo hành động thì dù hy vọng có cánh cũng không bao giờ bay tới đích.",
+    "image": "1698598829163.JPEG"
+  },
+  "creationTime": "Mon Oct 30 2023 00:00:29 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "653e94e35f49d921d9f7d617"
+  },
+  "sender": "653a17dbab118c7cf50002c5",
+  "content": {
+    "text": "Hạnh phúc là thứ không thể đến được, sở hữu được, kiếm được hay mặc vào được. Nó là trải nghiệm tinh thần của mỗi phút giây ta sống với tình yêu, vinh dự và lòng biết ơn. – Denis Waitley",
+    "image": "1698600163228.JPEG"
+  },
+  "creationTime": "Mon Oct 30 2023 00:22:43 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "653e96645f49d921d9f7d618"
+  },
+  "sender": "653a17dbab118c7cf50002c5",
+  "content": {
+    "text": "Tình yêu là một thứ vừa khiến cho người ta hạnh phúc cũng có thể khiến người ta bi thương, buồn phiền. Những hiểu lầm, những lần không hiểu nhau rồi dẫn đến tranh cãi khiến tình cảm của các cặp đôi trở nên bị sứt mẻ, rồi nhanh chóng chia tay để lại mối tình dang dở. Bởi vậy, người ta thường tìm đến những câu nói hay về tình yêu mang tâm trạng buồn để an ủi và ổn định cảm xúc bản thân, tiếp tục tiến đến cuộc sống mới tốt đẹp hơn.",
+    "image": "1698600548110.JPEG"
+  },
+  "creationTime": "Mon Oct 30 2023 00:29:08 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "653e978d5f49d921d9f7d619"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "Tôi sợ nhìn thấy ai đó bước ra khỏi cuộc đời mình nên có lẽ đóng chặt các cánh cửa lại là điều tốt nhất. Nhưng anh vẫn cứ vô tình như vậy, chân thành bước vào cuộc đời em rồi lạnh lùng đi ngang qua thế giới của em.",
+    "image": "1698600845542.JPEG"
+  },
+  "creationTime": "Mon Oct 30 2023 00:34:05 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "65413e285a5116ca9591157f"
+  },
+  "sender": "653a17dbab118c7cf50002c5",
+  "content": {
+    "text": "Basketball is a team sport in which two teams, most commonly of five players each, opposing one another on a rectangular court, compete with the primary objective of shooting a basketball (approximately 9.4 inches (24 cm) in diameter) through the defender's hoop (a basket 18 inches (46 cm) in diameter mounted 10 feet (3.048 m) high to a backboard at each end of the court), while preventing the opposing team from shooting through their own hoop. A field goal is worth two points, unless made from behind the three-point line, when it is worth three. After a foul, timed play stops and the player fouled or designated to shoot a technical foul is given one, two or three one-point free throws. The team with the most points at the end of the game wins, but if regulation play expires with the score tied, an additional period of play (overtime) is mandated.",
+    "image": "1698774568717.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 00:49:28 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 2
+},
+{
+  "_id": {
+    "$oid": "6541c8c41470a956b4ea44cf"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "The sea, a vast and endless expanse,\r\nWhere waves dance in a rhythmic trance,\r\nBeneath the open, boundless sky,\r\nWith seagulls soaring, way up high.",
+    "image": ""
+  },
+  "creationTime": "Wed Nov 01 2023 10:40:56 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6541c8f61470a956b4ea44d0"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "The sea, a vast and endless expanse,\r\nWhere waves dance in a rhythmic trance,\r\nBeneath the open, boundless sky,\r\nWith seagulls soaring, way up high.",
+    "image": "1698810102176.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 10:41:45 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541c9311470a956b4ea44d1"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "Its colors change, from azure to deep blue,\r\nReflecting the skies, in every hue,\r\nA canvas painted by nature's hand,\r\nA masterpiece across the land.\r\n\r\nThe waves, they sing a soothing song,\r\nAs they gently caress the shore along,\r\nA lullaby of peace and grace,\r\nIn this tranquil, boundless space.\r\n\r\nBeneath the surface, a world unknown,\r\nWith mysteries in its depths are sown,\r\nCoral gardens and creatures rare,\r\nIn the sea's embrace, they're everywhere.\r\n\r\nAnd as the sun sets on the horizon's line,\r\nThe sea reflects colors, divine,\r\nA fiery orange and shades of gold,\r\nA sight to treasure, a story untold.\r\n\r\nThe sea, a wonder, both wild and serene,\r\nA place where dreams and memories convene,\r\nIt whispers secrets of the ancient deep,\r\nA timeless love, the ocean's keep.\r\n\r\n\r\n\r\n\r\n\r\n",
+    "image": "1698810160757.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 10:42:44 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541c9b51470a956b4ea44d2"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "사랑은 무한한 감정입니다.",
+    "image": "1698810293359.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 10:44:57 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541cacf1470a956b4ea44d4"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "與你分享一生的愛是我最大的幸福。",
+    "image": "1698810574555.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 10:49:38 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541cb321470a956b4ea44d5"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "孤独是一种特殊的感觉，有时候我们会感到一个人独自面对这个世界。在寂静的夜晚，心里充满了孤独的情感，渴望着有人能够分享这一刻。然而，孤独也可以是一种反思和成长的机会，让我们更好地了解自己。无论如何，每个人都有时候会感到孤独，但也不要害怕，因为生活中总会有那些特别的人和时刻来填补这份孤独。",
+    "image": "1698810673680.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 10:51:17 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541cbfe1470a956b4ea44d7"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "学习是人类不断进步和成长的关键。通过学习，我们获得知识，培养技能，提高自己的能力。学习不仅仅发生在学校，它贯穿了整个生活。无论是自学、课堂教育还是在线学习，学习都是我们不断追求进步和实现梦想的途径。勤奋学习，不断积累知识，是实现个人和职业目标的重要步骤。无论年龄和背景如何，学习都是通向成功和满足的道路。\r\n\r\n\r\n\r\n\r\n",
+    "image": "1698810877995.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 10:54:41 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541cc1a1470a956b4ea44d8"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Yêu đời",
+    "image": "1698810905517.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 10:55:07 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541cc6b1470a956b4ea44d9"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "Whether it's a quiet evening with a good book, a peaceful walk in the park, or a lazy weekend with friends and family, \"time to chill\" reminds us to savor the present and let go of stress. It's a reminder that life is not just about work and obligations but also about finding joy in the simplicity of the moment.",
+    "image": "1698810986944.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 10:56:30 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6541ccbb1470a956b4ea44da"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Gà chọi ở Hạ Long",
+    "image": "1698811067434.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 10:57:49 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6541ccd51470a956b4ea44db"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "旅行是一种奇妙的冒险，它可以让我们逃离日常生活的压力，探索未知的地方。当我们踏上旅途，我们不仅仅是在前往新的目的地，还在寻找新的经历和回忆。旅行可以开拓我们的视野，让我们了解不同文化、风土人情和美风景。",
+    "image": "1698811092206.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 10:58:15 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6541cd051470a956b4ea44dc"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "在旅行中，我们可以品尝各种美食，与当地人互动，欣赏壮丽的自然风光，或者探访历史遗迹。无论我们选择去哪里，旅行总是一个令人兴奋的机会，它充满了惊喜和发现。而最重要的是，旅行可以带来新的朋友和珍贵的回忆，这些都是我们一生中值得珍藏的宝贝。",
+    "image": "1698811141116.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 10:59:04 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541cd461470a956b4ea44dd"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Thơ mộng",
+    "image": "1698811205800.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 11:00:07 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6541ce1e1470a956b4ea44de"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "感恩：感恩是快乐的起点。学会欣赏生活中的小事，珍惜家人、友情和爱情。每天都找一些事情感恩。",
+    "image": "1698811422193.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 11:03:46 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6541ce4e1470a956b4ea44df"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Nắng đẹp",
+    "image": "1698811469848.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 11:04:32 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6541ce901470a956b4ea44e0"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Biển đẹp",
+    "image": "1698811535800.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 11:05:38 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6541ce9a1470a956b4ea44e1"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "感恩：感恩是快乐的起点。学会欣赏生活中的小事，珍惜家人、友情和爱情。每天都找一些事情感恩。",
+    "image": "1698811545792.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 11:05:49 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6541cf171470a956b4ea44e2"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Buổi chiều tuyết vời",
+    "image": "1698811671483.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 11:07:53 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6541cf701470a956b4ea44e3"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Tôi cảm thấy mình có một bước tiến mới trong sự nghiệp",
+    "image": "1698811760317.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 11:09:22 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6541cfb31470a956b4ea44e4"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "烧烤是一种美妙的户外活动，它让人们聚在一起，享受美食和友情。烧烤可以在家庭聚会、朋友聚会或特殊庆典中找到，它带来了无尽的乐趣和美味。",
+    "image": "1698811827431.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 11:10:31 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6541d0081470a956b4ea44e5"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "无论是夏季烧烤会还是在寒冷的冬季热饮中的户外烧烤，这个传统的方式一直是人们喜欢的。烧烤不仅为味蕾带来满足，还为友情和欢乐创造了回忆。",
+    "image": "1698811912200.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 11:11:56 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6541d0221470a956b4ea44e7"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Lần đầu tiên chơi đàn",
+    "image": "1698811937700.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 11:12:20 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6541e2a29984e2809dc46215"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Yêu đời",
+    "image": "1698816674144.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 12:31:15 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6541e2cd9984e2809dc46216"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": " 그들은 사진 내가 당신을 볼 1,000 단어 KHI 지시라고하지만 내가 볼 모두 세 단어입니다 ... 당신이 나 ... 사랑",
+    "image": "1698816717889.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 12:31:57 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541e3689984e2809dc46217"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Tình bạn 15 năm",
+    "image": "1698816872304.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 12:34:33 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541e3a29984e2809dc46218"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Mình đẹp trai quá",
+    "image": "1698816930362.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 12:35:31 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541e3ef9984e2809dc46219"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "A great song should lift your heart, warm the soul and make you feel good.",
+    "image": "1698817006995.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 12:36:46 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541e45c9984e2809dc4621a"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Khám phá hương vị độc đáo của mì quản tại Quảng Nam. Mì mềm, nước dùng đậm đà, và những loại gia vị tự nhiên tạo nên một trải nghiệm ẩm thực không thể bỏ lỡ. Tô mì này không chỉ ngon mà còn đem lại cho tôi cảm giác ấm áp trong lòng. 🥰",
+    "image": "1698817116031.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 12:38:37 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541e8e49984e2809dc4621b"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "📸 Khoảnh khắc tuyệt vời bên bạn bè! ❤️\r\n\r\nMột ngày thú vị và đáng nhớ tại một nơi đẹp với những người bạn tuyệt vời. Chúng tôi đã chia sẻ nụ cười, tiếng cười và kỷ niệm đáng nhớ trong cuộc hành trình này. Bạn bè luôn là nguồn động viên và niềm vui trong cuộc sống của tôi",
+    "image": "1698818276524.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 12:57:58 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541e9669984e2809dc4621c"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🌞 Thời gian tuyệt vời trên võng! 🌴\r\n\r\nKhông gì bằng cảm giác của những ngày nắng và gió nhẹ, nằm trên chiếc võng và thư giãn. Đây là khoảnh khắc tôi yêu thích, nơi tôi có thể tận hưởng sự yên bình và tiếng sóng biển từ xa.\r\n\r\nVõng là nơi tôi thấy mình hoàn toàn thư giãn, để đắm mình trong suy tư và quên đi mọi lo âu. Chúc mọi người có một ngày thật đáng nhớ và thư giãn!\r\n\r\n#ThưGiãn #Võng #KhoảnhKhắcYênBình #NắngVàBiển\"",
+    "image": "1698818406512.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:00:08 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541ecb138e41fcecf4751d1"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🌞 Khoảnh khắc thư giãn cùng bạn bè và hai lát dưa leo trên mắt! 😎🍃\r\n\r\nChỉ có thể là ngày thứ bảy hoàn hảo khi chúng tôi tự thưởng cho bản thân khoảnh khắc thư giãn đầy vui vẻ này",
+    "image": "1698819249594.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:14:11 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541edfc38e41fcecf4751d2"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Cuốn album này thật tuyệt với nó cho tôi có góc nhìn khác về dòng nhạc xưa",
+    "image": "1698819580084.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:19:42 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541ee0a38e41fcecf4751d3"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "I want to take a moment to express my heartfelt thanks to you, my dear friend. Your unwavering support and friendship have meant the world to me. Through thick and thin, you've been there with a kind word, a helping hand, and a listening ear. Your friendship is a precious gift, and I am truly grateful to have you in my life. Thank you for being an amazing friend, and I cherish the moments we've shared together.",
+    "image": "1698819594483.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:19:57 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541ee2d38e41fcecf4751d4"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "Hey there, my friend! Get ready to party and let loose because we're about to have the time of our lives. It's time to dance, celebrate, and make unforgettable memories. I can't wait to see you shine on the dance floor and enjoy every moment together. Let's raise the roof and make this an epic night to remember!",
+    "image": "1698819628831.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:20:31 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541ee5b38e41fcecf4751d5"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": " Our cat is a source of endless joy and comfort. With its soft fur and playful antics, it brightens our days and provides a sense of companionship that only a cat can offer. It's amazing how it can go from a purring, cuddly ball of fur to a mischievous hunter in an instant. ",
+    "image": "1698819674631.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:21:17 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541ee8b38e41fcecf4751d6"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "My favorite music band is an absolute source of inspiration and joy in my life. Their music resonates with my soul, and every song they create feels like a piece of my own story. Their lyrics are poetic, and their melodies are enchanting. Whenever I listen to their music, it's as if I'm transported to a different world where all my worries disappear.",
+    "image": "1698819722224.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:22:04 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541eea438e41fcecf4751d7"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🏕️🎶 Khoảnh khắc tuyệt vời trong buổi cắm trại ngoại trời! 🌟\r\n\r\nHôm nay chúng tôi đã tạo ra một đêm đáng nhớ. Dưới ánh trăng sáng và với lửa trại ấm áp, chúng tôi đã tổ chức một buổi hòa nhạc tự nhiên! 🎤🔥",
+    "image": "1698819747661.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:22:29 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541ef0838e41fcecf4751d8"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "Life can be compared to a dream, a surreal journey where we navigate through the realms of existence. Just like in a dream, we experience moments of joy, sadness, and everything in between. Sometimes, it's as if we're floating through the sky, weightless and carefree, while at other times, it feels like we're trapped in a nightmare. The passage of time, like the shifting scenes of a dream, is often elusive, and we may wake up one day to realize that the dream of life is but a fleeting moment. ",
+    "image": "1698819846014.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:24:08 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541ef1938e41fcecf4751d9"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🎉 Vô cùng sôi động tại buổi biểu diễn này! 🕺💃\r\n\r\nHôm nay, tôi đang sống cuộc sống đúng nghĩa của từ \"sôi động.\" Âm nhạc, ánh sáng và không khí đang khiến mọi người quên hết mọi lo âu và chỉ muốn nhảy múa và âm nhạc! 🎵🔥",
+    "image": "1698819865016.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:24:27 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541ef6038e41fcecf4751da"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Bức ảnh này nắm bắt một khoảnh khắc đáng yêu - một cậu bé đang ngồi trước chiếc radio cổ điển, những giai điệu tràn đầy ấm áp lan tỏa qua không gian. Đôi khi, âm nhạc là cách tuyệt vời để kết nối với những ký ức và cảm xúc thời thơ ấu",
+    "image": "1698819936015.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:25:38 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541efed38e41fcecf4751db"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "Hey there, why don't you come and chill with me for a while? Whether it's a cozy evening at home with a good movie and some snacks or a lazy afternoon in the park, spending time together is always a good idea. Let's relax, chat, and enjoy each other's company. It's in these simple, laid-back moments that friendships are strengthened, and memories are made. So, put your worries aside and come chill with me. It's the perfect way to unwind and share some quality time.",
+    "image": "1698820076684.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:27:59 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541eff338e41fcecf4751dc"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Những phút giây yên bình và tĩnh lặng với cây đàn ghi ta. Có lẽ không gì tuyệt bằng việc để âm nhạc trôi qua từ đầu ngón tay của mình và tạo ra những giai điệu tinh tế.",
+    "image": "1698820082753.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:28:04 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6541f2cf38e41fcecf4751dd"
+  },
+  "sender": "653a17dbab118c7cf50002c5",
+  "content": {
+    "text": "Không biết viết caption gì hết trơn",
+    "image": "1698820815462.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:40:15 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6541f33438e41fcecf4751de"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Hôm nay có lẽ là một ngày vô cùng may mắn và bất ngờ. Tôi không hề biết trước, cảm xúc lúc đó của tôi vô cùng ngạc nhiên. Cảm giác khi đèn lồng bắt đầu bay cao và biến thành những điểm sáng giữa bầu trời đêm là tuyệt vời",
+    "image": "1698820915474.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:41:57 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6541f46d38e41fcecf4751df"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "The first day of junior high school, or \"middle school\" as it's often called, is a day filled with excitement and a touch of nervousness. It marks the beginning of a new chapter in a student's academic journey. ",
+    "image": "1698821229095.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:47:11 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541f4d338e41fcecf4751e0"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "\r\nPaper flowers are an exquisite form of art that captivates with their delicate and ephemeral beauty. Crafted with precision and creativity, these intricate blossoms hold a unique charm. Each petal meticulously cut, folded, and shaped, they seem to defy the fragility of paper.",
+    "image": "1698821330501.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:48:53 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541f4e938e41fcecf4751e1"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "These creations serve as an enduring symbol of artistry and ingenuity. They adorn events and celebrations, bringing a touch of elegance and charm to any setting. Paper flowers are a testament to the power of human creativity and the ability to capture the essence of natural beauty in an everlasting, delicate form.",
+    "image": "1698821352932.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:49:15 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541f57b38e41fcecf4751e2"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "The beauty of reflection is a mesmerizing phenomenon that often goes unnoticed in our fast-paced lives. It is in the mirror-like surface of a calm lake or the glassy facade of a skyscraper that we encounter this enchanting quality. Reflections have the magical ability to transform the ordinary into the extraordinary.",
+    "image": "1698821499459.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:51:42 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541f59438e41fcecf4751e3"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "Chúc cho người bạn của tôi tuổi mới gặp được nhiều điều may mắn. Chúc cho tình bạn chúng ta mãi mãi bên lâu",
+    "image": "1698821524187.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:52:06 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541f67838e41fcecf4751e4"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "\r\n你好，花花熊猫！花花熊猫是一个可爱的名字，它让人想到一只充满活力和快乐的熊猫。熊猫是中国的国宝，它们以其黑白色的皮毛和和睦的性格而闻名于世。花花熊猫可能就是一只特别有趣的熊猫，它的名字似乎表明它喜欢花朵，也许会在竹林中探险或者与其他熊猫玩耍。无论如何，花花熊猫听起来像是一个迷人的朋友，值得认识和交流。",
+    "image": "1698821752725.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:55:55 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541f69f38e41fcecf4751e5"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "请和我一起喝咖啡吧！在一个安静的咖啡馆里，或者是一个温馨的家庭聚会中，分享一杯咖啡是一个美好的时刻。咖啡的香气弥漫着，温暖的杯子在手中，是一次放松和交谈的好机会。在这个愉快的时光里，我们可以聊天，分享故事，或者只是一起享受宁静。无论是浓郁的拿铁还是清新的美式咖啡，它都可以成为交流和亲近的媒介。所以，请和我一起喝杯咖啡，让我们一起创造美好的回忆。",
+    "image": "1698821791308.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:56:34 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541f72b38e41fcecf4751e6"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "👩‍🍳❤️ Học làm bánh từ người mẹ tuyệt vời\r\n\r\nHôm nay, mẹ đang chỉ tôi làm bánh, và không gì tuyệt vời bằng được học từ người mẹ đáng yêu của mình. Sự kiên nhẫn và tình yêu của mẹ làm cho mỗi bát bánh trở nên đặc biệt",
+    "image": "1698821930656.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:58:52 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541f76d38e41fcecf4751e7"
+  },
+  "sender": "653a17dbab118c7cf50002c5",
+  "content": {
+    "text": "Find a Vacation Rental\r\nFlorida’s Suncoast is the only resort area located on the Gulf of Mexico less than two hours drive to every major tourist attraction in Florida. Disney World, Epcot, Universal Studios and Sea World are only a 90 minute drive away and Florida’s Suncoast offers unlimited activities such as water sports, para-sailing, boat rentals, fishing, dining, and of course sunning and relaxing on your own stretch of white sandy beach.",
+    "image": "1698821997243.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 13:59:57 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6541f78d38e41fcecf4751e8"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🍰👨‍🍳 Bánh chính tay mình làm - Thành quả ngọt ngào!\r\n\r\nHôm nay, tôi tự tay làm một chiếc bánh ngon tuyệt. Từ việc chọn nguyên liệu đến việc nấu nướng, tất cả đã đòi hỏi sự kiên nhẫn và tâm huyết",
+    "image": "1698822028983.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 14:00:30 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6541f82538e41fcecf4751ea"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🎂🎉 Khoảnh khắc đáng yêu cùng các bạn nhỏ!\r\nHôm nay, tôi có cơ hội chứng kiến một khoảnh khắc đáng yêu khi các bạn nhỏ cùng thổi nến trên chiếc bánh kem. Sự phấn khích và niềm vui trong ánh mắt của những đứa trẻ làm tôi nhớ đến những ngày còn bé",
+    "image": "1698822180836.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 14:03:02 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6541fa130ac6df4f7cb5f94f"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "💑🍰 Khi hai trái tim trở thành một\r\n\r\nHôm nay, tôi có vinh dự chứng kiến khoảnh khắc đặc biệt khi hai vợ chồng đang cắt bánh cưới của họ. Đó là một buổi lễ tôn vinh tình yêu và sự đoàn kết, và mọi thứ trở nên rạng ngời và thú vị",
+    "image": "1698822675062.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 14:11:17 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6541fb1e0ac6df4f7cb5f950"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🦒🌿 Gặp gỡ một kỳ diệu của thiên nhiên\r\n\r\nHôm nay, tôi có cơ hội thấy một hươu cao cổ đang duỗi cổ ăn lá cây. Điều này nhắc nhở tôi về sự kỳ diệu của thế giới tự nhiên và sự đa dạng của động vật hoang dã",
+    "image": "1698822941687.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 14:15:43 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6541fbe90ac6df4f7cb5f951"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "你好，花花熊猫！花花熊猫是一个可爱的名字，它让人想到一只充满活力和快乐的熊猫。熊猫是中国的国宝，它们以其黑白色的皮毛和和睦的性格而闻名于世。花花熊猫可能就是一只特别有趣的熊猫，它的名字似乎表明它喜欢花朵，也许会在竹林中探险或者与其他熊猫玩耍。无论如何，花花熊猫听起来像是一个迷人的朋友，值得认识和交流",
+    "image": "1698823145038.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 14:19:07 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6541fc1b0ac6df4f7cb5f952"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🐶😴 Cuộc sống là thú vị hơn với bạn lân cận\r\n\r\nHôm nay, tôi có một người bạn đáng yêu ngồi thư giãn trên ghế sôfa. Chú chó của tôi luôn biết cách thể hiện sự thoải mái và hạnh phúc. Đôi khi, chỉ cần nhìn thấy anh ấy thư giãn đã làm cho mọi người cảm thấy thú vị hơn",
+    "image": "1698823194641.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 14:19:56 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6541fcf20ac6df4f7cb5f955"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "👧❤️👶 Gắn kết gia đình - Ngày cùng nằm và trò chuyện\r\n\r\nHôm nay, tôi được chứng kiến một khoảnh khắc đáng yêu khi người chị 4 tuổi nằm cùng với đứa em nhỏ 3 tháng tuổi. Hình ảnh này là biểu tượng cho tình yêu và sự gắn kết trong gia đình",
+    "image": "1698823409568.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 14:23:31 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6541fd080ac6df4f7cb5f956"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "he concept of a \"spirit\" or \"soul\" is a deeply ingrained and universal belief across different cultures and religions. While interpretations and beliefs about the soul vary, it is often seen as the immaterial essence that defines an individual's unique consciousness and identity.",
+    "image": "1698823432156.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 14:23:54 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6541fd570ac6df4f7cb5f958"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "The beauty of a female student in an áo dài is truly captivating and timeless. The áo dài, a traditional Vietnamese dress, enhances the elegance and grace of the wearer, making her radiate a unique charm. It is not just a piece of clothing; it's a symbol of culture and heritage.",
+    "image": "1698823511090.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 14:25:13 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6541fdae0ac6df4f7cb5f959"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🏍️🛣️ Một cuộc phiêu lưu mới bắt đầu!\r\n\r\nHôm nay, tôi hạnh phúc chia sẻ với mọi người về một cuộc mua sắm thú vị - một chiếc xe phân khối lớn hoàn toàn mới! Đó là bước khởi đầu cho nhiều cuộc phiêu lưu và hành trình tuyệt vời trên đường",
+    "image": "1698823596896.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 14:26:37 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6541fecb0ac6df4f7cb5f95b"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🌅🌊 Khoảnh khắc yên bình giữa sóng biển và bình minh\r\n\r\nSáng nay, tôi có cơ hội tận hưởng một khoảnh khắc thật tuyệt vời - ngắm biển vào buổi sáng. Âm thanh sóng biển và ánh nắng mặt trời đầu ngày tạo ra một bầu không khí yên bình và thư thái",
+    "image": "1698823882028.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 14:31:23 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 3
+},
+{
+  "_id": {
+    "$oid": "654203180ac6df4f7cb5f961"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🐐❤️ Kết nối với thiên nhiên và động vật\r\n\r\nHôm nay, tôi có cơ hội gặp một con dê và ôm nó trong vòng tay. Cảm giác kết nối với thiên nhiên và động vật là một trải nghiệm tuyệt vời. Động vật hoang dã và thú nuôi đều có vẻ đáng yêu và đáng quý.\r\n\r\nChúng ta hãy luôn trân trọng và bảo vệ sự đa dạng của cuộc sống trên hành tinh này và giữ gìn sự kết nối với thiên nhiên. 🌍🌿",
+    "image": "1698824983081.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 14:49:44 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "654203500ac6df4f7cb5f962"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "\r\n\"Merry\" is a word that evokes a sense of joy, happiness, and celebration. It's a term often associated with the holiday season, as in \"Merry Christmas\" or \"Merry New Year,\" expressing good wishes and a festive spirit. However, \"merry\" can be used more broadly to describe a state of cheerfulness and merriment in various contexts.",
+    "image": "1698825039956.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 14:50:42 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "654203b70ac6df4f7cb5f963"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🍖🔥 Sáng tạo trong nhà bếp\r\n\r\nHôm nay, tôi đã dành một thời gian thú vị trong nhà bếp. Sử dụng lò nướng để nướng thịt dê đã mang lại một bữa ăn ngon lành và thú vị. Điều này là một cách tuyệt vời để thể hiện sự sáng tạo và đam mê về nấu ăn",
+    "image": "1698825143170.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 14:52:25 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "654204a50ac6df4f7cb5f964"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🎉🏙️ Cuộc sống trên đường phố cảm xúc mãnh liệt\r\n\r\nHôm nay, tôi đã có cơ hội tham gia một lễ hội trên đường phố tại thành phố. Không gian đã biến thành một biển người, âm nhạc và màu sắc đang làm cho mọi người phấn khích",
+    "image": "1698825380678.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 14:56:22 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "654206d50ac6df4f7cb5f965"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": " Thư giãn và tận hưởng khoảnh khắc\r\n\r\nHôm nay, tôi đã quyết định thư giãn và tận hưởng khoảnh khắc trên cầu thang. Đôi khi, cần phải dừng lại, thở sâu và tận hưởng sự yên bình trong cuộc sống",
+    "image": "1698825940389.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:05:42 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "654207720ac6df4f7cb5f966"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "❤️🌟 Yêu đời và đón nhận mọi ngày\r\n\r\nCuộc đời luôn đầy những thách thức và khoảng khắc đẹp. Yêu đời nghĩa là biết tận hưởng mọi khoảnh khắc và tôn trọng mỗi ngày mà ta được sống",
+    "image": "1698826098408.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:08:20 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "654207c50ac6df4f7cb5f967"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🥰❤️ Đáng yêu đến mức không thể cưỡng lại!\r\n\r\nHôm nay, tôi đã gặp một thứ gì đó đáng yêu đến mức không thể cưỡng lại. Có những khoảnh khắc trong cuộc sống khi chúng ta không thể không cười và yêu đời",
+    "image": "1698826180383.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:09:42 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "654208020ac6df4f7cb5f968"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "n a world filled with challenges and responsibilities, finding moments to be merry is essential for our well-being. It reminds us to embrace the lighter side of life, appreciate the simple joys, and spread happiness to those around us. So, let's all strive to find reasons to be merry and make the world a brighter and happier place.",
+    "image": "1698826242037.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:10:44 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6542080e0ac6df4f7cb5f969"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "👫❤️ Tình bạn - Món quà đáng quý\r\n\r\nTôi muốn nói lời cảm ơn và tôn vinh những mối quan hệ bạn bè đáng quý trong cuộc sống. Tình bạn là món quà đáng giá nhất, nó là nguồn động viên và hỗ trợ trong mọi thời điểm",
+    "image": "1698826253463.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:10:55 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "654208220ac6df4f7cb5f96a"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "When a young woman dons an áo dài, it accentuates her graceful silhouette, with its high collar, fitted bodice, and flowing skirt. The fabric, often rich and vibrant, adds to the allure, and the color and patterns can convey a lot about her personality and style.",
+    "image": "1698826273993.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:11:16 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6542084c0ac6df4f7cb5f96b"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "\r\nThe beauty of a rider is a unique and captivating sight to behold. Whether on horseback, a motorcycle, or a bicycle, there is a sense of grace and power that emanates from a rider in motion.",
+    "image": "1698826316034.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:11:58 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6542088c0ac6df4f7cb5f96c"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "\r\nSunshine is a natural wonder that brightens our world and infuses it with warmth and vitality. It is the radiant light and energy emitted by the sun, which is essential for all life on Earth. The beauty of sunshine lies in its ability to bring a sense of positivity, brightness, and hope to our lives.\r\n\r\n\r\n\r\n\r\n\r\n",
+    "image": "1698826379294.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:13:02 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "654208c10ac6df4f7cb5f96d"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "The healing power of nature's beauty is undeniable. A walk in the woods or a day by the ocean can soothe the spirit and rejuvenate the mind. The sense of peace and calm that nature provides is a balm for the soul in an often hectic and fast-paced world.",
+    "image": "1698826433085.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:13:55 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6542093c0ac6df4f7cb5f96e"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "The beauty of a book lies not only in its content but also in its physical presence. Books are more than just vessels for words; they are gateways to knowledge, windows to different worlds, and treasures to be cherished. The aesthetics of a book play a significant role in enhancing the reading experience.",
+    "image": "1698826553768.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:15:56 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "654209830ac6df4f7cb5f96f"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "⚖️🧘‍♂️ Cân bằng là chìa khóa của cuộc sống\r\n\r\nCuộc sống đầy thách thức và bận rộn, nhưng sự cân bằng là điều quan trọng. Hãy chăm sóc tâm hồn và cơ thể, giữ mối quan hệ, và tìm thời gian cho niềm vui và thư giãn",
+    "image": "1698826626735.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:17:08 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "65420e109d980fbabc50c218"
+  },
+  "sender": "653a17dbab118c7cf50002c5",
+  "content": {
+    "text": "JACOB'S CREEK",
+    "image": "1698827792304.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:36:32 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "65420e129d980fbabc50c219"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "💎✨ Sự quý giá của kim cương\r\n\r\nKim cương luôn là biểu tượng của sự quý giá và vẻ đẹp tinh túy. Từng viên kim cương đều là một kiệt tác tự nhiên, và chúng mang đến ánh sáng và lấp lánh cho cuộc sống",
+    "image": "1698827794778.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:36:36 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "65420e419d980fbabc50c21a"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🐵💤 Một con khỉ đang có giấc ngủ ngon\r\n\r\nKhông gì đáng yêu hơn khi thấy một con khỉ đang ngủ say. Động vật có khả năng tạo ra những khoảnh khắc thú vị và đáng yêu",
+    "image": "1698827840728.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:37:22 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "65420e7a9d980fbabc50c21c"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "khi sếp bắt tôi đăng 10000 bài mới cho nghỉ",
+    "image": "1698827897650.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:38:19 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "65420eb79d980fbabc50c21e"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🎣🌊 Một ngày thú vị bên dòng sông\r\n\r\nHôm nay, tôi đã có cơ hội câu cá tại dòng sông yên bình. Câu cá không chỉ là một hoạt động thú vị mà còn là cơ hội để tận hưởng thiên nhiên và thư giãn",
+    "image": "1698827958449.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:39:20 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "65420ee39d980fbabc50c220"
+  },
+  "sender": "653a17dbab118c7cf50002c5",
+  "content": {
+    "text": "Kimchi is a very popular Korean dish. It is made by fermenting vegetables, usually cabbage and white radish, and seasoning them with red peppers an garlic.\r\nFirst, it is originated in Korea which is the creation of kimbap is because of the old tradition eating cooked rice (bap) and vegetables wrapped\r\nKorean cuisine has a basic food combination of steamed cooked rice, vegetables and some meats. The changes in the Korean cuisine originated from their ...\r\nKorean food is unique. It's known for its spicy flavor and the use of other seasonings to enhance the taste. Dishes are usually flavored with a combination of ",
+    "image": "1698828003547.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:40:03 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "65420f379d980fbabc50c221"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🏕️🍔 Bữa ăn tuyệt vời tại buổi cắm trại\r\n\r\nHôm nay, chúng tôi đã tổ chức một buổi cắm trại ngoài trời tuyệt vời, và bữa ăn đã thật ngon lành. Nướng thịt trên lửa, chế biến thức ăn tự nhiên và tận hưởng không gian thiên nhiên làm cho bữa ăn trở nên đặc biệt",
+    "image": "1698828087078.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:41:28 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "65420f5a9d980fbabc50c222"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🏞️🧗‍♂️ Trải nghiệm thú vị tại đỉnh núi\r\n\r\nHôm nay, tôi đã có cơ hội thực hiện một cuộc leo núi đầy thách thức. Đi qua những đoạn đèo và đạp qua những đoạn đá là một trải nghiệm thú vị.\r\n\r\nLeo núi không chỉ giúp tôi khám phá thiên nhiên mà còn đưa ra những thử thách và cơ hội thử sức. Hy vọng bạn cũng có cơ hội thấy núi, chinh phục đỉnh và tận hưởng cảm giác tự do! ⛰️🌄",
+    "image": "1698828122256.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:42:04 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "65420f7a9d980fbabc50c223"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "",
+    "image": "1698828154018.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:42:36 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "65420f949d980fbabc50c224"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🏕️🌲 Chill và thư giãn tại nơi cấm trại\r\n\r\nHôm nay, chúng tôi đã có cơ hội thư giãn và chill tại buổi cắm trại giữa thiên nhiên. Ngồi bên lửa, hát hò, và tận hưởng không gian tự nhiên làm cho cuộc sống trở nên đáng nhớ",
+    "image": "1698828180029.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:43:01 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "65420fca9d980fbabc50c225"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🍂🌾 Mùa thu đã đến\r\n\r\nMùa thu đã chính thức bắt đầu, và không gian xung quanh đang thay đổi. Các cây cỏ chuyển sang màu vàng rực rỡ, và làn gió dịu dàng mang theo hương của lá khô.\r\n\r\nMùa thu là thời gian của những buổi tối ấm áp bên gia đình và bạn bè, của những cuộc đi dạo dưới ánh nắng mặt trời rực rỡ, và của những chiếc áo ấm và cốc cacao nóng. Hãy chào đón mùa thu với tất cả những khoảnh khắc đáng yêu và tĩnh lặng mà nó mang lại. 🍁🍂",
+    "image": "1698828234401.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:43:56 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "65420ff39d980fbabc50c226"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "",
+    "image": "1698828274727.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:44:37 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 2
+},
+{
+  "_id": {
+    "$oid": "654210299d980fbabc50c227"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "",
+    "image": "1698828329499.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:45:32 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "654210f49d980fbabc50c229"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "👠✨ Đêm thời trang đỉnh cao\r\n\r\nHôm nay, tôi đã có cơ hội tham dự một buổi biểu diễn thời trang đẳng cấp. Những bộ trang phục sáng tạo, thiết kế độc đáo và ánh sáng lấp lánh đã làm cho buổi biểu diễn này trở nên thú vị và ấn tượng",
+    "image": "1698828531447.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:48:53 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "654211199d980fbabc50c22a"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "👗👔 Thời trang và phong cách là ngôn ngữ của tôi\r\n\r\nThời trang không chỉ là cách mặc quần áo mà còn là cách tôi thể hiện bản thân. Đó là cách để tôi tự tin, tạo ra ấn tượng và kể về cái tôi của mình",
+    "image": "1698828569452.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:49:31 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "654211779d980fbabc50c22b"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "",
+    "image": "1698828662864.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:51:05 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6542119c9d980fbabc50c22c"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "I'm just a text-based AI, so I can't physically see or examine your eye. If you have any concerns about your eyes or vision, it's best to consult with a medical professional or an eye specialist who can provide proper evaluation and care. They will be able to assess your eye health and address any issues you may have. Please seek medical advice if you have any eye-related concerns.",
+    "image": "1698828700371.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:51:43 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6542123369f74e638cccfa2c"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🏋️‍♂️💪 Béo phì không đánh bại tôi\r\n\r\nBéo phì có thể là một thách thức lớn, nhưng tôi đang quyết tâm đối mặt với nó. Quá trình giảm cân không dễ dàng, nhưng tôi biết rằng sức khỏe và sự tự tin đang đợi phía trước",
+    "image": "1698828850262.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:54:12 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6542129169f74e638cccfa2d"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "",
+    "image": "1698828944718.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:55:47 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6542129969f74e638cccfa2e"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "",
+    "image": "1698828953526.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:55:56 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "654212f05e1a803019071772"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "",
+    "image": "1698829039980.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:57:22 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6542130f5a82486d7b245821"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "",
+    "image": "1698829071504.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:57:54 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6542134a375ba4aeda7b7721"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "",
+    "image": "1698829129561.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:58:52 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "65421364375ba4aeda7b7722"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🧘‍♂️🌼 Quản lý căng thẳng và tìm kiếm yên bình\r\n\r\nCuộc sống có thể đầy căng thẳng và thách thức, nhưng quản lý căng thẳng là quan trọng. Tôi đã tìm thấy niềm yên bình trong việc thực hành thiền và tập luyện, cùng với việc tìm thời gian cho bản thân",
+    "image": "1698829156127.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:59:18 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "65421372375ba4aeda7b7723"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "",
+    "image": "1698829170589.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:59:33 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "65421380e1eb6f4e6396b1ad"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "",
+    "image": "1698829183836.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 15:59:46 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "6542139e5273bd79de4c079b"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "",
+    "image": "1698829213891.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 16:00:16 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "654213ab5273bd79de4c079c"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "",
+    "image": "1698829227392.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 16:00:30 GMT+0700 (Indochina Time)",
+  "displayMode": "public"
+},
+{
+  "_id": {
+    "$oid": "654214256ea213d4bec74c81"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "Ultimately, the beauty of a book is a multi-faceted experience that combines art, craftsmanship, and the written word. It is an invitation to explore, learn, and appreciate the profound connection between aesthetics and the world of ideas and imagination.",
+    "image": "1698829348554.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 16:02:31 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "65421487700087dda2faedf2"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "The texture and weight of the paper, the quality of printing, and the arrangement of text are all elements that contribute to the beauty of a book. The feel of the pages under one's fingers, the smell of fresh ink, and the sound of pages turning all add to the sensory experience of reading.",
+    "image": "1698829447503.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 16:04:10 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "654214be700087dda2faedf3"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🎻🚇 âm nhạc đặc biệt trong tàu điện ngầm\r\n\r\nHôm nay, tôi đã trải nghiệm một buổi biểu diễn âm nhạc độc đáo khi một nghệ sĩ violin xuất sắc đã chơi đàn trong tàu điện ngầm. Âm nhạc đã lấp đầy không gian và mang lại một trải nghiệm thú vị",
+    "image": "1698829501686.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 16:05:03 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "65421534700087dda2faedf4"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🎻🌟 Nghệ sĩ violin và vẻ đẹp của âm nhạc\r\n\r\nHôm nay, tôi đã có cơ hội tham dự một buổi biểu diễn violin của một nghệ sĩ xuất sắc. Âm nhạc từ cây đàn violin đã làm cho mọi người đắm chìm trong một thế giới của tài năng và cảm xúc.\r\n\r\nNghệ sĩ violin là người mang đến những bản hòa nhạc tuyệt vời và biểu diễn đầy đam mê. Chúng ta cần tôn vinh và ủng hộ những nghệ sĩ tài năng như họ, vì họ làm cho thế giới trở nên đẹp hơn bằng âm nhạc. 🎶🌠",
+    "image": "1698829618901.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 16:07:00 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6542153b700087dda2faedf5"
+  },
+  "sender": "653a17dbab118c7cf50002c5",
+  "content": {
+    "text": "👿🤗🤗😍😍😍😍😍Xịn hemm",
+    "image": "1698829627516.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 16:07:07 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "654215d4700087dda2faedf7"
+  },
+  "sender": "6541cb9b1470a956b4ea44d6",
+  "content": {
+    "text": "🎨🎭 Tôn vinh nghệ thuật và nghệ sĩ\r\n\r\nNghệ thuật có thể xuất hiện ở mọi nơi trong cuộc sống, và nó là nguồn cảm hứng và tạo ra sự thăng hoa trong tâm hồn tôi. Hôm nay, tôi muốn chia sẻ về một nghệ sĩ tài năng mà tôi vừa được biết đến và bị ấn tượng bởi tác phẩm của họ",
+    "image": "1698829779887.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 16:09:41 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "654215e1700087dda2faedf8"
+  },
+  "sender": "653a17dbab118c7cf50002c5",
+  "content": {
+    "text": "Đi nghỉ dưỡng hông mụi người ơi :3 🌼🏵️🌺",
+    "image": "1698829793293.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 16:09:53 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "65421619700087dda2faedfa"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "Nhìn gì mà nhìn ",
+    "image": "1698829848749.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 16:10:51 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6542163f700087dda2faedfb"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "The cover of a book is the first thing that captures our attention, and it often conveys a story of its own. A well-designed cover can be a work of art, offering a glimpse into the themes, emotions, and settings within. The choice of typography, colors, and images can evoke a sense of anticipation and curiosity before even delving into the first page.",
+    "image": "1698829886127.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 16:11:29 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "65421652700087dda2faedfc"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "Mất đầu :v",
+    "image": "1698829905750.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 16:11:48 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "6542166d700087dda2faedfd"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "Bông hoa xinh quá, vĩnh biệt em :))",
+    "image": "1698829932938.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 16:12:15 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 0
+},
+{
+  "_id": {
+    "$oid": "65421686700087dda2faedfe"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "In essence, the beauty of nature is an eternal and ever-changing masterpiece that surrounds us. It invites us to pause, reflect, and be in awe of the world we inhabit. Whether in the grandest of landscapes or the simplest of moments, nature's beauty is a gift that enriches our lives and nourishes our spirits.",
+    "image": "1698829957650.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 16:12:40 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "65421695700087dda2faedff"
+  },
+  "sender": "653a7b1f1cfe8b32fe0c432f",
+  "content": {
+    "text": "Nothing",
+    "image": "1698829973223.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 16:12:56 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 2
+},
+{
+  "_id": {
+    "$oid": "65427cdf753684374292b238"
+  },
+  "sender": "654148215032246f0769c438",
+  "content": {
+    "text": "",
+    "image": "1698856159367.JPEG"
+  },
+  "creationTime": "Wed Nov 01 2023 23:29:19 GMT+0700 (Giờ Đông Dương)",
+  "displayMode": "public",
+  "loves": 1
+},
+{
+  "_id": {
+    "$oid": "6560b4b635f0e45c34a5a7cb"
+  },
+  "sender": "653a17dbab118c7cf50002c5",
+  "content": {
+    "text": "Thiết kế tai thỏ",
+    "image": "1700836534359.JPEG"
+  },
+  "creationTime": "Fri Nov 24 2023 21:35:34 GMT+0700 (Indochina Time)",
+  "displayMode": "public",
+  "loves": 1
+}]
